@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * textarea-limited Input Plugin
  *
