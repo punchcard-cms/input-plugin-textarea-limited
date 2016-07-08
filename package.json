@@ -1,6 +1,7 @@
 {
   "name": "input-plugin-textarea-limited",
   "version": "0.0.0",
+  "keyword": "punchcard-cms",
   "description": "A simple limited textarea input type",
   "main": "index.js",
   "scripts": {
@@ -31,6 +32,7 @@
     "nyc": "^6.6.1",
     "punchcard-commit-msg": "^1.0.0",
     "punchcard-content-types": "^0.10.1",
+    "punchcard-shared-tests": "^1.0.0",
     "semantic-release": "^4.3.5",
     "tap-diff": "^0.1.1"
   },
