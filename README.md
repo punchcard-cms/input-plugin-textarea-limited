@@ -1,4 +1,4 @@
-textarea-limited Input Plugin [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+textarea-limited Input Plugin [![Build Status](https://travis-ci.org/punchcard-cms/input-plugin-textarea-limited.svg?branch=master)](https://travis-ci.org/punchcard-cms/input-plugin-textarea-limited) [![Coverage Status](https://coveralls.io/repos/github/punchcard-cms/input-plugin-textarea-limited/badge.svg?branch=master)](https://coveralls.io/github/punchcard-cms/input-plugin-textarea-limited?branch=master) [![NSP Status](https://nodesecurity.io/orgs/punchcard-cms/projects/ecb2ef35-14d9-45ae-abd4-c99526aebbe4/badge)](https://nodesecurity.io/orgs/punchcard-cms/projects/ecb2ef35-14d9-45ae-abd4-c99526aebbe4)
 ---
 
 A simple limited textarea input type
@@ -6,12 +6,3 @@ A simple limited textarea input type
 ## License
 
 Apache-2.0
-
-[npm-image]: https://badge.fury.io/js/input-plugin-textarea-limited.svg
-[npm-url]: https://npmjs.org/package/input-plugin-textarea-limited
-[travis-image]: https://travis-ci.org/punchcard-cms/input-plugin-textarea-limited.svg
-[travis-url]: https://travis-ci.org/punchcard-cms/input-plugin-textarea-limited
-[daviddm-image]: https://david-dm.org/punchcard-cms/input-plugin-textarea-limited.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/punchcard-cms/input-plugin-textarea-limited
-[coveralls-image]: https://coveralls.io/repos/punchcard-cms/input-plugin-textarea-limited/badge.svg
-[coveralls-url]: https://coveralls.io/r/punchcard-cms/input-plugin-textarea-limited
