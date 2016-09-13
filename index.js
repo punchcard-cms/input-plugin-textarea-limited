@@ -28,7 +28,6 @@ module.exports = {
       type: 'textarea',
       placeholder: 'type here...',
       settings: {
-        empty: true,
         minlength: '50',
         maxlength: '200',
       },
